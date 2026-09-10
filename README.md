@@ -11,7 +11,7 @@ This repository documents a working proof-of-concept where **Claude** (Anthropic
 
 1. Translates raw customer business requirements into a structured Excel design workbook
 2. Uses that approved workbook as the source of truth
-3. Provisions a live Cisco Webex Contact Center (WxCC) environment entirely through MCP tool calls — no Control Hub clicks
+3. Provisions a Sandbox Cisco Webex Contact Center (WxCC) environment entirely through MCP tool calls — no Control Hub clicks
 
 The only manual step is publishing the IVR flow in WxCC Flow Designer (a current sandbox constraint).
 
